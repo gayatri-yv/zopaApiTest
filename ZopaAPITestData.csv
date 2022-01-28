@@ -1,0 +1,5 @@
+amountToBorrow,currentSalary,termLength,firstName,emailAddress,town,postCode,firstLine
+10000,10000,12,John,john@test.com,london,SE106RR,firstavenue
+12000,30000,6,Philip,philip@test.com,milton keynes,MK100YY,teststreet
+50000,50000,24,Mary,mary@test.com,leeds,LE44R56,pinkclose
+25000,70000,48,Joseph,joseph@test.com,manchester,MN34R88,rangestreet
