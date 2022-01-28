@@ -1,0 +1,7 @@
+{
+  "Staging": {
+    "baseUrl" : "https://qanat-quotes-public.staging.zopa.com/api",
+    "basePathMember" : "/member",
+    "basePathQuote" : "/quote"
+  }
+}
